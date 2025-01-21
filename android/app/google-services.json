@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "825738727223",
+    "firebase_url": "https://onlinefirebase-4d9bc-default-rtdb.firebaseio.com",
+    "project_id": "onlinefirebase-4d9bc",
+    "storage_bucket": "onlinefirebase-4d9bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825738727223:android:f11bd4874143a3a424d4b2",
+        "android_client_info": {
+          "package_name": "com.example.onlineapp_kiattisak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHZNXQicq88XRufmx8JeJ48APJu7HyyBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
